@@ -1,0 +1,29 @@
+Package: AgilentDataV2
+Title: Agilent Data: reading & aggregating results from MS data for peptide mapping
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ben", "Bruyneel", , "ben.bruyneel@msd.com", role = c("aut", "cre"))
+Description: PKG_DESC.
+License: GPL (>= 3)
+Imports: 
+    config,
+    golem,
+    shiny,
+    utils,
+    stringr,
+    XML,
+    dplyr,
+    magrittr,
+    purrr,
+    fs,
+    R6,
+    base64enc,
+    scales
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
+Suggests: 
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Language: en-US
