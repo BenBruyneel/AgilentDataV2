@@ -1,0 +1,250 @@
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI TIC Scan Frag=125.0V WorklistData-0005.d "
+"No integration results available"
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI TIC Scan Frag=125.0V WorklistData-0005.d "
+"No integration results available"
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI BPC Scan Frag=125.0V WorklistData-0005.d "
+"No integration results available"
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(319.8662) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,8.766,8.878,9.178,478883,1939880,100.00,100.00,100.00,0.412,,0,564,0,0,,478883,,,BV,319.8622,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(339.5587) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,14.326,14.458,14.772,495962,2422859,100.00,100.00,99.68,0.445,,0,1044,0,0,,495962,,,BV,339.5537,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,55.278,55.374,55.476,2839,7867,0.32,0.57,0.32,0.198,,0,0,0,0,,2839,,,BB,338.3371,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(372.8974) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,16.900,16.917,17.049,733,2401,1.88,3.14,0.80,0.149,,214,74,74,74,,807,,,VB,371.0429,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,17.742,17.897,17.989,7371,36241,28.32,31.59,12.00,0.247,,0,630,0,0,,7371,,,BV,791.3604,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,18.022,18.121,18.253,23333,127951,100.00,100.00,42.37,0.231,,958,122,122,122,,23455,,,VB,372.8978,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,22.609,22.721,22.906,5647,34145,26.69,24.20,11.31,0.297,,0,0,0,0,,5647,,,BB,465.6015,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,23.418,23.523,23.814,14345,101228,79.11,61.48,33.52,0.396,,57,144,57,57,,14402,,,BV,465.6015,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(444.2302) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,11.076,11.178,11.488,355857,1420674,100.00,100.00,95.84,0.413,,0,487,0,0,,355857,,,BV,444.2265,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,11.818,11.884,11.950,735,2286,0.16,0.21,0.15,0.132,,107,57,57,57,,792,,,VB,320.0416,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,12.314,12.327,12.462,1200,4774,0.34,0.34,0.32,0.148,,458,0,0,0,,1200,,,VB,316.6713,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,14.986,15.171,15.316,8697,50427,3.55,2.44,3.40,0.330,,0,0,0,0,,8697,,,BB,421.7535,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,24.391,24.490,24.507,2026,4140,0.29,0.57,0.28,0.116,,0,530,0,0,,2026,,,BV,449.2500,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(465.6025) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,22.576,22.738,23.088,468391,2950254,21.08,27.72,17.38,0.512,,0,505,0,0,,468391,,,BV,465.6015,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,23.220,23.289,23.401,3847,18140,0.13,0.23,0.11,0.182,,949,1297,949,949,,4796,,,BV,535.9471,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,23.401,23.537,23.962,1689774,13996280,100.00,100.00,82.47,0.561,,1297,4908,1297,1297,,1691071,,,BV,465.6015,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,25.381,25.398,25.546,818,3394,0.02,0.05,0.02,0.165,,150,168,150,150,,968,,,BV,633.8457,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,31.123,31.172,31.205,864,2388,0.02,0.05,0.01,0.083,,170,722,170,170,,1034,,,BV,762.3853,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(520.2984) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,14.260,14.366,14.574,22144,81529,78.42,98.91,39.28,0.313,,0,0,0,0,,22144,,,BB,472.0361,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,16.488,16.593,16.801,22388,103961,100.00,100.00,50.09,0.314,,0,0,0,0,,22388,,,BB,519.2441,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,18.352,18.408,18.534,1321,5038,4.85,5.90,2.43,0.181,,0,0,0,0,,1321,,,BB,668.3591,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,23.368,23.494,23.616,2088,9431,9.07,9.33,4.54,0.247,,0,75,0,0,,2088,,,BV,465.6015,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,55.278,55.394,55.460,1948,7578,7.29,8.70,3.65,0.181,,73,115,73,73,,2021,,,BV,338.3371,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(529.3037) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,12.940,13.020,13.188,9922,36179,92.67,100.00,44.76,0.247,,0,0,0,0,,9922,,,BB,324.1955,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,14.425,14.455,14.541,815,2209,5.66,8.21,2.73,0.116,,0,0,0,0,,815,,,BB,339.5537,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,17.841,17.927,18.055,834,3399,8.71,8.41,4.21,0.215,,0,0,0,0,,834,,,BB,730.3372,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,18.319,18.408,18.616,7883,39039,100.00,79.45,48.30,0.297,,0,0,0,0,,7883,,,BB,668.3591,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(541.2727) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,8.419,8.515,8.733,326806,1313624,100.00,100.00,96.88,0.313,,0,340,0,0,,326806,,,BV,361.1799,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,9.987,10.059,10.168,2845,9753,0.74,0.87,0.72,0.181,,0,0,0,0,,2845,,,BB,362.2392,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,17.824,17.927,18.055,4647,24738,1.88,1.42,1.82,0.231,,0,94,0,0,,4647,,,BV,730.3372,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,47.474,47.566,47.672,1275,4336,0.33,0.39,0.32,0.198,,0,0,0,0,,1275,,,BB,1061.5010,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,54.404,54.486,54.569,1604,3509,0.27,0.49,0.26,0.165,,95,55,55,55,,1659,,,VB,359.3150,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(549.8371) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,18.435,18.573,18.732,7077,37721,38.21,38.68,20.68,0.297,,0,124,0,0,,7077,,,BV,366.8895,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,18.880,18.999,19.194,18297,98725,100.00,100.00,54.12,0.313,,0,0,0,0,,18297,,,BB,366.8895,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,22.626,22.721,22.923,4619,25561,25.89,25.24,14.01,0.297,,0,0,0,0,,4619,,,BB,465.6015,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,23.385,23.570,23.731,2757,17376,17.60,15.07,9.53,0.346,,0,0,0,0,,2757,,,BB,465.6015,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,33.647,33.740,33.911,1092,3040,3.08,5.97,1.67,0.264,,0,0,0,0,,1092,,,BB,765.3686,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(582.2754) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,13.633,13.726,13.914,8614,31033,11.07,31.87,5.50,0.280,,0,0,0,0,,8614,,,BB,313.0005,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,23.368,23.454,23.616,4926,22987,8.20,18.22,4.07,0.247,,0,66,0,0,,4926,,,BV,750.7096,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,28.302,28.483,28.698,21780,193663,69.05,80.58,34.31,0.396,,0,246,0,0,,21780,,,BV,762.3949,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,31.007,31.225,31.420,27029,280455,100.00,100.00,49.69,0.412,,0,1029,0,0,,27029,,,BV,762.3853,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,32.377,32.608,32.872,4218,36269,12.93,15.61,6.43,0.495,,0,0,0,0,,4218,,,BB,712.3673,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(591.2807) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,12.148,12.238,12.347,6317,21699,54.66,77.89,19.48,0.198,,0,0,0,0,,6317,,,BB,383.7109,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,17.841,17.963,18.138,8110,39699,100.00,100.00,35.64,0.297,,0,0,0,0,,8110,,,BB,730.3372,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,21.586,21.721,21.900,1453,13249,33.37,17.92,11.89,0.313,,0,0,0,0,,1453,,,BB,844.4150,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,28.351,28.460,28.483,5887,24475,61.65,72.59,21.97,0.132,,78,3274,78,78,,5965,,,BV,762.3949,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,31.073,31.153,31.172,4982,12263,30.89,61.43,11.01,0.099,,0,3300,0,0,,4982,,,BV,762.3853,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(668.3614) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,12.446,12.518,12.644,934,4579,0.12,0.12,0.12,0.198,,0,0,0,0,,934,,,BB,324.1955,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,18.286,18.425,18.715,751174,3742319,100.00,100.00,99.11,0.429,,0,855,0,0,,751174,,,BV,668.3591,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,18.765,18.831,18.979,5279,22194,0.59,0.70,0.59,0.215,,758,174,174,174,,5453,,,VB,446.9724,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,32.740,32.822,32.938,1701,6823,0.18,0.23,0.18,0.198,,0,0,0,0,,1701,,,BB,964.4670,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(673.3724) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,24.375,24.517,25.117,928278,10893198,100.00,100.00,99.43,0.742,,0,15290,0,0,,928278,,,BV,449.2500,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,34.819,34.859,34.901,1362,3013,0.03,0.15,0.03,0.083,,285,482,285,285,,1647,,,BV,698.1178,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,47.754,47.794,47.837,910,2044,0.02,0.10,0.02,0.083,,113,0,0,0,,910,,,VB,1248.3696,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,51.500,51.533,51.615,878,2303,0.02,0.09,0.02,0.115,,129,352,129,129,,1007,,,BV,289.1496,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,56.384,56.499,56.615,9564,54746,0.50,1.03,0.50,0.231,,258,1791,258,258,,9822,,,BV,625.5723,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(712.1203) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,30.216,30.374,30.381,1004,2782,0.09,0.28,0.09,0.165,,0,528,0,0,,1004,,,BV,743.3814,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,32.377,32.591,32.888,360980,3123390,100.00,100.00,97.64,0.512,,0,1119,0,0,,360980,,,BV,712.3673,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,33.169,33.172,33.252,1288,2489,0.08,0.36,0.08,0.083,,0,105,0,0,,1288,,,BV,271.1890,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,37.244,37.320,37.541,9542,63285,2.03,2.64,1.98,0.297,,0,341,0,0,,9542,,,BV,915.4471,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,46.732,46.893,46.913,1845,6850,0.22,0.51,0.21,0.181,,0,544,0,0,,1845,,,BV,699.7458,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(730.3384) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,17.824,17.943,18.220,597501,3043573,100.00,100.00,98.95,0.396,,0,702,0,0,,597501,,,BV,730.3372,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,18.220,18.283,18.451,3809,16819,0.55,0.64,0.55,0.231,,702,453,286,453,,4217,,,VB,415.0169,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,39.868,39.937,40.066,1259,4785,0.16,0.21,0.16,0.198,,0,0,0,0,,1259,,,BB,1109.7268,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,45.263,45.349,45.445,1443,7506,0.25,0.24,0.24,0.182,,0,106,0,0,,1443,,,BV,883.2033,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,46.781,46.873,46.930,779,3129,0.10,0.13,0.10,0.149,,0,106,0,0,,779,,,BV,699.7458,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(738.9029) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,14.904,15.033,15.201,2127,10895,12.28,14.14,4.26,0.297,,0,0,0,0,,2127,,,BB,460.7174,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,27.988,28.156,28.335,11585,64087,72.21,77.03,25.08,0.346,,0,0,0,0,,11585,,,BB,298.2263,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,28.434,28.599,28.830,13570,68295,76.95,90.23,26.72,0.396,,0,0,0,0,,13570,,,BB,762.3949,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,30.430,30.516,30.595,4151,23539,26.52,27.60,9.21,0.165,,0,1932,0,0,,4151,,,BV,846.5677,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,44.900,45.049,45.280,15040,88748,100.00,100.00,34.73,0.379,,0,103,0,0,,15040,,,BV,739.1239,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(750.3818) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,23.319,23.454,23.698,340438,1689944,100.00,100.00,97.83,0.379,,0,829,0,0,,340438,,,BV,750.7096,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,28.500,28.562,28.698,1421,5589,0.33,0.42,0.32,0.198,,0,0,0,0,,1421,,,BB,762.3949,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,30.150,30.348,30.513,2904,21561,1.28,0.85,1.25,0.363,,0,0,0,0,,2904,,,BB,743.3814,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,43.877,43.930,44.075,1057,3556,0.21,0.31,0.21,0.198,,55,0,0,0,,1057,,,VB,739.7166,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,48.612,48.685,48.794,1673,6790,0.40,0.49,0.39,0.181,,0,0,0,0,,1673,,,BB,892.2432,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(761.0656) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,11.439,11.531,11.604,1449,4157,3.48,6.01,2.56,0.165,,0,0,0,0,,1449,,,BB,384.0362,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,29.572,29.688,29.935,24103,119334,100.00,100.00,73.63,0.363,,0,97,0,0,,24103,,,BV,761.3922,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,36.205,36.357,36.601,2021,12532,10.50,8.38,7.73,0.396,,0,0,0,0,,2021,,,BB,904.0628,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,44.224,44.349,44.455,1214,6430,5.39,5.04,3.97,0.231,,0,109,0,0,,1214,,,BV,969.6095,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,48.431,48.553,48.695,4392,19623,16.44,18.22,12.11,0.264,,0,86,0,0,,4392,,,BV,759.3793,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(762.0537) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,28.236,28.480,28.665,641179,5697055,67.81,75.30,40.21,0.429,,0,25352,0,0,,641179,,,BV,762.3949,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,29.605,29.674,29.935,4796,28855,0.34,0.56,0.20,0.330,,505,132,132,132,,4928,,,VB,761.3922,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,31.040,31.189,31.733,851529,8401356,100.00,100.00,59.29,0.693,,84,2992,84,84,,851613,,,BV,762.3853,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,38.696,38.838,38.993,6142,35913,0.43,0.72,0.25,0.297,,265,178,178,178,,6320,,,VB,1075.8642,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,56.499,56.569,56.697,1237,6186,0.07,0.15,0.04,0.198,,0,305,0,0,,1237,,,BV,1090.0155,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(788.4008) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,12.132,12.218,12.446,192150,1186683,100.00,100.00,95.76,0.314,,0,61,0,0,,192150,,,BV,383.7109,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,32.905,33.030,33.186,5931,25793,2.17,3.09,2.08,0.281,,0,0,0,0,,5931,,,BB,271.1890,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,40.445,40.590,40.792,1339,7874,0.66,0.70,0.64,0.346,,0,0,0,0,,1339,,,BB,398.2398,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,43.448,43.534,43.745,2578,12545,1.06,1.34,1.01,0.297,,410,0,0,0,,2578,,,VB,1025.8824,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,48.761,48.880,48.959,2142,6312,0.53,1.11,0.51,0.198,,0,57,0,0,,2142,,,BV,1178.1115,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(789.3888) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,12.148,12.228,12.446,15896,90741,100.00,100.00,43.83,0.297,,0,0,0,0,,15896,,,BB,383.7109,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,16.504,16.600,16.752,6491,28698,31.63,40.83,13.86,0.248,,0,0,0,0,,6491,,,BB,519.2441,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,37.129,37.304,37.492,4991,29578,32.60,31.40,14.29,0.363,,0,103,0,0,,4991,,,BV,915.5937,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,50.048,50.117,50.246,9795,40843,45.01,61.62,19.73,0.198,,0,374,0,0,,9795,,,BV,1289.0082,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,50.312,50.391,50.543,3974,17177,18.93,25.00,8.30,0.231,,188,64,64,64,,4038,,,VB,967.0043,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(791.3643) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,16.504,16.577,16.719,3156,13218,0.66,0.80,0.64,0.215,,0,0,0,0,,3156,,,BB,519.2441,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,17.791,17.917,18.237,396487,2015834,100.00,100.00,97.74,0.445,,0,2328,0,0,,396487,,,BV,730.3372,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,28.401,28.440,28.450,2721,4405,0.22,0.69,0.21,0.050,,131,1446,131,131,,2852,,,BV,762.3949,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,31.090,31.169,31.205,7064,23708,1.18,1.78,1.15,0.116,,119,4953,119,119,,7183,,,BV,762.3853,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,33.647,33.750,33.779,1456,5273,0.26,0.37,0.26,0.132,,0,336,0,0,,1456,,,BV,765.3686,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(794.4043) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,31.783,31.869,32.014,1859,7520,55.23,52.48,22.79,0.231,,0,0,0,0,,1859,,,BB,214.9157,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,33.004,33.087,33.186,3542,13616,100.00,100.00,41.27,0.182,,0,249,0,0,,3542,,,BV,271.1890,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,48.810,48.873,48.926,1460,2885,21.19,41.22,8.74,0.116,,129,0,0,0,,1460,,,VB,1178.2777,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,49.190,49.236,49.355,1024,2326,17.08,28.91,7.05,0.165,,0,0,0,0,,1024,,,BB,1343.1489,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,49.372,49.444,49.553,2364,6646,48.81,66.74,20.14,0.181,,0,0,0,0,,2364,,,BB,968.9633,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(795.3923) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,33.020,33.110,33.235,1095,3750,9.93,15.71,6.86,0.215,,0,51,0,0,,1095,,,BV,271.1890,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,35.677,35.839,35.941,1248,5730,15.17,17.91,10.49,0.264,,0,0,0,0,,1248,,,BB,262.2341,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,38.350,38.465,38.630,6969,37765,100.00,100.00,69.12,0.280,,0,181,0,0,,6969,,,BV,927.6507,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,44.042,44.131,44.158,1814,4842,12.82,26.03,8.86,0.116,,0,509,0,0,,1814,,,BV,883.4501,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,50.048,50.111,50.180,1020,2553,6.76,14.64,4.67,0.132,,0,111,0,0,,1020,,,BV,1289.0082,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(844.4236) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,5.845,5.931,6.076,6523,22825,0.20,0.44,0.20,0.231,,0,0,0,0,,6523,,,BB,411.7040,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,21.553,21.675,22.065,1471640,11512883,100.00,100.00,99.38,0.512,,0,2286,0,0,,1471640,,,BV,844.4250,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,30.694,30.770,30.859,5288,26184,0.23,0.36,0.23,0.165,,152,1294,152,152,,5440,,,BV,846.5677,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,31.436,31.496,31.502,2925,6642,0.06,0.20,0.06,0.066,,0,1990,0,0,,2925,,,BV,762.3853,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,39.422,39.492,39.653,3581,15619,0.14,0.24,0.13,0.231,,197,125,125,125,,3706,,,VB,821.1139,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(886.9659) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,31.519,31.651,32.047,464108,2798322,100.00,100.00,98.76,0.528,,56,499,56,56,,464164,,,BV,886.9600,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,32.146,32.228,32.360,4561,23405,0.84,0.98,0.83,0.214,,423,154,154,154,,4715,,,VB,950.6570,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,48.827,48.880,48.975,2357,9546,0.34,0.51,0.34,0.149,,129,157,129,129,,2486,,,BV,1178.1115,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,49.289,49.388,49.421,749,2179,0.08,0.16,0.08,0.132,,0,106,0,0,,749,,,BV,1039.9141,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(887.1094) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,31.502,31.651,31.849,32755,172882,20.74,21.23,16.83,0.346,,0,51,0,0,,32755,,,BV,886.9600,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,34.885,35.007,35.314,154266,833506,100.00,100.00,81.16,0.429,,0,189,0,0,,154266,,,BV,887.4443,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,43.795,43.913,44.125,1492,9552,1.15,0.97,0.93,0.330,,0,0,0,0,,1492,,,BB,739.7166,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,48.744,48.873,48.975,1597,7834,0.94,1.04,0.76,0.231,,0,302,0,0,,1597,,,BV,1178.2777,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,49.652,49.738,49.834,825,3207,0.38,0.53,0.31,0.182,,0,56,0,0,,825,,,BV,1417.2121,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(888.0975) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,31.519,31.654,31.882,27360,142107,31.32,33.25,16.00,0.363,,0,0,0,0,,27360,,,BB,887.4649,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,34.885,34.997,35.149,45815,237471,52.34,55.67,26.73,0.264,,66,1280,47,66,,45871,,,VV,887.4443,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,35.149,35.202,35.429,6356,33491,7.38,7.72,3.77,0.280,,1280,143,93,143,,6485,,,VB,888.0422,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,38.812,38.924,39.191,82292,453738,100.00,100.00,51.08,0.379,,0,242,0,0,,82292,,,BV,1075.8642,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,43.811,43.923,44.059,4156,21489,4.74,5.05,2.42,0.247,,0,386,0,0,,4156,,,BV,739.8860,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(929.9865) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,21.190,21.283,21.421,1157,5347,0.06,0.12,0.06,0.231,,0,0,0,0,,1157,,,BB,743.3436,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,28.582,28.694,29.143,982410,8283556,100.00,100.00,99.53,0.561,,0,2260,0,0,,982410,,,BV,929.9809,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,31.288,31.347,31.403,839,2071,0.03,0.09,0.02,0.115,,130,54,54,54,,893,,,VB,762.3853,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,37.442,37.617,37.739,3162,19670,0.24,0.32,0.24,0.297,,527,304,304,304,,3466,,,VB,801.2695,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,56.433,56.579,56.582,3631,12014,0.15,0.37,0.14,0.148,,0,2574,0,0,,3631,,,BV,1090.0155,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(976.4931) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,37.789,38.076,38.201,16210,122500,23.22,12.61,13.24,0.412,,0,209,0,0,,16210,,,BV,976.8298,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,49.008,49.144,49.223,6538,28321,5.37,5.09,3.06,0.214,,525,789,447,525,,7051,,,VV,1252.0516,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,49.322,49.414,49.537,5794,32682,6.19,4.51,3.53,0.215,,240,673,240,240,,6034,,,BV,968.9633,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,50.032,50.117,50.296,128565,527615,100.00,100.00,57.02,0.264,,675,2455,675,675,,129240,,,BV,1289.0082,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,50.296,50.391,50.609,43824,214154,40.59,34.09,23.14,0.313,,2455,1091,865,1091,,44830,,,VB,967.0043,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(982.4966) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,36.353,36.558,36.766,8420,48693,54.69,45.76,22.33,0.412,,0,90,0,0,,8420,,,BV,982.4605,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,38.680,38.888,38.927,4167,28644,32.17,22.65,13.14,0.247,,64,2033,64,64,,4231,,,BV,1075.8642,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,48.893,48.942,49.041,4417,13393,15.04,24.01,6.14,0.149,,235,325,235,235,,4652,,,BV,1367.2832,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"4" ,50.032,50.121,50.296,18399,89036,100.00,100.00,40.83,0.264,,202,1083,202,202,,18601,,,BV,1289.0082,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"5" ,50.329,50.391,50.593,7349,38275,42.99,39.94,17.55,0.264,,1191,328,328,328,,7677,,,VB,967.0043,,,,,,,,,,,,
+
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d"," +ESI EIC(1075.2018) Scan Frag=125.0V WorklistData-0005.d "
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"1" ,37.228,37.350,37.393,1179,4790,0.13,0.34,0.13,0.165,,0,299,0,0,,1179,,,BV,915.4471,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"2" ,38.713,38.901,39.274,348974,3552804,100.00,100.00,99.78,0.561,,0,3075,0,0,,348974,,,BV,1075.8642,,,,,,,,,,,,
+"D:\Projects\GmP Projects\2025-ATS-437\Data\20250916\WorklistData-0005.d" ,"3" ,48.183,48.233,48.315,980,3209,0.09,0.28,0.09,0.132,,179,163,163,163,,1143,,,VB,1347.8823,,,,,,,,,,,,
+
