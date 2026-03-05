@@ -13,7 +13,6 @@ Imports:
     stringr,
     XML,
     dplyr,
-    magrittr,
     purrr,
     fs,
     R6,
