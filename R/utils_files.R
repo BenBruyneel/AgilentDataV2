@@ -145,7 +145,6 @@ gatherRelatedFiles <- function(theFiles, sample){
   return(theFiles)
 }
 
-
 #' @title gatherAllCompleteFiles
 #'
 #' @description

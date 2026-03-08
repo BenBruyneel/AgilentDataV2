@@ -204,12 +204,6 @@ selectWidgetsServer <- function(id,
     }
   )
 }
-    
-## To be copied in the UI
-# mod_selectWidgets_ui("selectWidgets_1")
-    
-## To be copied in the server
-# mod_selectWidgets_server("selectWidgets_1")
 
 # ---- minimal functional app ----
 

@@ -40,15 +40,9 @@ agilentDataUI <- function(id = "AgilentData",
 #' agilentData Server Functions
 #'
 #' @noRd 
-agilentDataServer <- function(id){
+agilentDataServer <- function(id = "AgilentData"){
   moduleServer(id, function(input, output, session){
     ns <- session$ns
  
   })
 }
-    
-## To be copied in the UI
-# mod_agilentData_ui("agilentData_1")
-    
-## To be copied in the server
-# mod_agilentData_server("agilentData_1")
