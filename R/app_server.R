@@ -10,4 +10,5 @@ app_server <- function(input, output, session) {
   targetFiles <<- utils::read.table(targetFilesName,
                                     sep = ";",
                                     header = T)
+  agilentData <- agilentDataServer()
 }

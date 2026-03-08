@@ -55,11 +55,12 @@ filesSelectDefinitionUI <- function(id = "msfiles",
 #' filesSelectDefinition Server Functions
 #'
 #' @noRd 
-filesSelectDefinitionServer <- function(id = "msfiles"){
+filesSelectDefinitionServer <- function(id = "msfiles",
+                                        name = "msPeakFilesStrings"){
   moduleServer(
     id,
     function(input, output, session){
-      filesSelect <- selectWidgetsServer(id = "msPeakFilesStrings",
+      filesSelect <- selectWidgetsServer(id = name,
                                          widgets = c("stringPositive","stringNegative"))
       
       returnValue <- reactive({

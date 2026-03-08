@@ -17,8 +17,9 @@ agilentDataUI <- function(id = "AgilentData",
       id = ns("Top"),
       shiny::tabPanel(
         title = "Select",
-        icon = shiny::icon("clipboard-check")
-        # filesTableUI(id = ns("fileTable"), insideTagsDiv = insideTagsDiv)
+        icon = shiny::icon("clipboard-check"),
+        filesTableUI(id = ns("fileTable"),
+                     insideTagsDiv = insideTagsDiv)
       ),
       shiny::tabPanel(
         title = "Processing",
@@ -43,6 +44,8 @@ agilentDataUI <- function(id = "AgilentData",
 agilentDataServer <- function(id = "AgilentData"){
   moduleServer(id, function(input, output, session){
     ns <- session$ns
- 
+    
+    filesTable <- filesTableServer(id = "fileTable")
+    
   })
 }

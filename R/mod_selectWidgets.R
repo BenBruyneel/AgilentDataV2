@@ -157,7 +157,6 @@ selectWidgetsServer <- function(id,
       })
       
       returnValue <- reactive({
-        browser()
         if (!hideSelect){
           if (!input$active){
             if (!noSelectionNA & !identical(sqlOutput, NA)){

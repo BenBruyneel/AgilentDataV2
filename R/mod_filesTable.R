@@ -131,7 +131,8 @@ filesTableServer <- function(id = "filesTable",
                              uploadLimit = 1024
 ){
   
-  fileFilterServer <- filesSelectDefinitionServer(id = id)
+  fileFilterServer <- filesSelectDefinitionServer(id = id,
+                                                  name = "fileFilter")
   
   moduleServer(
     id,
