@@ -5,12 +5,36 @@
 #' @import shiny
 #' @noRd
 app_ui <- function(request) {
+  titleText <- "DON-OVA Peptide Mapping V2.0"
+  contactPreText <- "Questions/Comments: "
+  contactName <- "Ben Bruyneel"
+  contactEmail <- "ben.bruyneel@merck.com"
+  contactText <- paste(c(contactPreText,
+                         "<a href = mailto:",
+                         contactEmail,">",
+                         contactName,"</a>"), collapse ="")
   tagList(
+    shinyjs::useShinyjs(),
     # Leave this function for adding external resources
     golem_add_external_resources(),
     # Your application UI logic
     fluidPage(
-      golem::golem_welcome_page() # Remove this line to start building your UI
+      fluidRow(
+        column(2,
+               img(src='www/msd_ah_rgb_pos.png',
+                   height = "75px",# width = "150px",
+                   align = "left")
+        ),
+        column(7,
+               titlePanel(titleText)
+        ),
+        column(3,
+               style = "text-align: right; padding-top: 10px;",
+               HTML(contactText)
+        )
+      ),
+      agilentDataUI(insideTagsDiv = "boxMiddle",
+                    admin = TRUE)
     )
   )
 }
