@@ -10,6 +10,4 @@ app_server <- function(input, output, session) {
   targetFiles <<- utils::read.table(targetFilesName,
                                     sep = ";",
                                     header = T)
-  uploadLimit <- 1024
-  options(shiny.maxRequestSize=uploadLimit*1024^2)
 }

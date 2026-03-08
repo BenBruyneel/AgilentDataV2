@@ -12,6 +12,8 @@ Imports:
     DT,
     shinyjs,
     shinyBS,
+    shinyWidgets,
+    shinydashboard,
     utils,
     stringr,
     XML,
