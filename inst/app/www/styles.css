@@ -1,0 +1,51 @@
+
+.sidebarpanel {
+  background-color: rgba(255,255,255,1);
+  border-style : solid;
+  border-color : rgba(255,255,255,1);
+}
+
+.boxMiddle {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.pageSelector {
+  width: 250px;
+  height: 40px;
+  margin: 2px;
+  display: flex;
+}
+
+.rhandsonFont {
+  font-size: 0.8em;
+}
+
+.btn-custom-tiny-position {
+  padding: 10px 0px 0px 0px;
+}
+
+.btn-custom-tiny {
+  width: 22px;
+  height: 22px;
+  font-size: 0.6em;
+  padding: 2px;
+  vertical-align: middle;
+  background-color: #0275d8;
+  color: #FFFFFF;
+}
+
+.btn-pageSelector {
+  width: 34px;
+  height: 34px;
+  padding: 2px;
+  vertical-align: middle;
+  background-color: *#FFFFFF;
+  color: #000000;
+  padding: 3px 0px 0px 0px;
+}
+
+.test {
+  border-style : solid;
+}
