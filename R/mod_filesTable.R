@@ -23,9 +23,4 @@ filesTableServer <- function(id){
  
   })
 }
-    
-## To be copied in the UI
-# mod_filesTable_ui("filesTable_1")
-    
-## To be copied in the server
-# mod_filesTable_server("filesTable_1")
+
