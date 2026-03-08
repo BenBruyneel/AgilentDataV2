@@ -10,5 +10,4 @@ app_server <- function(input, output, session) {
   targetFiles <<- read.table(targetFilesName,
                              sep = ";",
                              header = T)
-  print(targetFiles)
 }
