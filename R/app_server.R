@@ -6,9 +6,10 @@
 #' @noRd
 app_server <- function(input, output, session) {
   # Your application server logic
-  targetFilesName <<- "inst/app/data/targetsList.csv"
-  targetFiles <<- utils::read.table(targetFilesName,
+  
+  targetFiles <- utils::read.table(targetFilesName,
                                     sep = ";",
                                     header = T)
-  agilentData <- agilentDataServer()
+  agilentData <- agilentDataServer(admin = TRUE,
+                                   theTargets = targetFiles)
 }

@@ -5,6 +5,9 @@
 #' @import shiny
 #' @noRd
 app_ui <- function(request) {
+  targetFiles <- utils::read.table(targetFilesName,
+                                   sep = ";",
+                                   header = T)
   titleText <- "DON-OVA Peptide Mapping V2.0"
   contactPreText <- "Questions/Comments: "
   contactName <- "Ben Bruyneel"
@@ -34,6 +37,7 @@ app_ui <- function(request) {
         )
       ),
       agilentDataUI(insideTagsDiv = "boxMiddle",
+                    theTargets = targetFiles,
                     admin = TRUE)
     )
   )

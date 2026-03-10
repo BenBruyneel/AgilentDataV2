@@ -9,7 +9,7 @@
 #' @importFrom shiny NS tagList 
 agilentDataUI <- function(id = "AgilentData",
                           admin = TRUE,
-                          theTargets = targetFiles,
+                          theTargets,
                           insideTagsDiv = NA) {
   ns <- NS(id)
   result <- tagList(
@@ -23,10 +23,10 @@ agilentDataUI <- function(id = "AgilentData",
       ),
       shiny::tabPanel(
         title = "Processing",
-        icon = shiny::icon("bolt")
-        # processUI(id = ns("process"),
-        #           admin = admin,
-        #           insideTagsDiv = insideTagsDiv)
+        icon = shiny::icon("bolt"),
+        processUI(id = ns("process"),
+                  admin = admin,
+                  insideTagsDiv = insideTagsDiv)
       ),
       shiny::tabPanel(
         title = "Results",
@@ -41,11 +41,18 @@ agilentDataUI <- function(id = "AgilentData",
 #' agilentData Server Functions
 #'
 #' @noRd 
-agilentDataServer <- function(id = "AgilentData"){
+agilentDataServer <- function(id = "AgilentData",
+                              theTargets,
+                              admin = TRUE){
   moduleServer(id, function(input, output, session){
     ns <- session$ns
     
     filesTable <- filesTableServer(id = "fileTable")
+    
+    processing <- processServer(id = "process",
+                                admin = admin,
+                                theTargets = reactive({theTargets}),
+                                toProcess = filesTable)
     
   })
 }
