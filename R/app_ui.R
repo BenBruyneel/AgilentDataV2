@@ -5,6 +5,7 @@
 #' @import shiny
 #' @noRd
 app_ui <- function(request) {
+  targetFilesName <- "inst/app/data/targetsList.csv"
   targetFiles <- utils::read.table(targetFilesName,
                                    sep = ";",
                                    header = T)
