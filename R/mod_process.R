@@ -31,7 +31,7 @@ processUI <- function(id = "processing",
         class = "sidebarpanel",
         width = 2,
         br(),
-        box(height = "2px"),
+        shinydashboard::box(height = "2px"),
         tags$div(
           class = insideTagsDiv,
           actionButton(

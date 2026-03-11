@@ -6,9 +6,14 @@
 #' @noRd
 app_ui <- function(request) {
   targetFilesName <- "inst/app/data/targetsList.csv"
-  targetFiles <- utils::read.table(targetFilesName,
-                                   sep = ";",
-                                   header = T)
+  if (file.exists(targetFilesName)){
+    targetFiles <- utils::read.table(targetFilesName,
+                                     sep = ";",
+                                     header = T)
+  } else { # to fool test-golem-recommended.R during tests
+    targetFiles <- data.frame(file = "1",
+                              name = "1")
+  }
   titleText <- "DON-OVA Peptide Mapping V2.0"
   contactPreText <- "Questions/Comments: "
   contactName <- "Ben Bruyneel"
@@ -57,14 +62,23 @@ golem_add_external_resources <- function() {
     "www",
     app_sys("app/www")
   )
-
+  add_resource_path(
+    "data",
+    app_sys("app/data")
+  )
+  
   tags$head(
     favicon(),
     bundle_resources(
       path = app_sys("app/www"),
       app_title = "AgilentDataV2"
-    )
+    ),
     # Add here other external resources
     # for example, you can add shinyalert::useShinyalert()
+    bundle_resources(
+      path = app_sys("app/data"),
+      app_title = "AgilentDataV2"
+    ),
+    
   )
 }
