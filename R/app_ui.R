@@ -7,12 +7,12 @@
 app_ui <- function(request) {
   targetFilesName <- "inst/app/data/targetsList.csv"
   if (file.exists(targetFilesName)){
-    targetFiles <- utils::read.table(targetFilesName,
-                                     sep = ";",
-                                     header = T)
+    targetFiles <<- utils::read.table(targetFilesName,
+                                      sep = ";",
+                                      header = T)
   } else { # to fool test-golem-recommended.R during tests
-    targetFiles <- data.frame(file = "1",
-                              name = "1")
+    targetFiles <<- data.frame(file = "1",
+                               name = "1")
   }
   titleText <- "DON-OVA Peptide Mapping V2.0"
   contactPreText <- "Questions/Comments: "
