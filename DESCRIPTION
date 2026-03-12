@@ -15,6 +15,7 @@ Imports:
     shinyWidgets,
     shinydashboard,
     reactable,
+    gt,
     utils,
     stringr,
     XML,

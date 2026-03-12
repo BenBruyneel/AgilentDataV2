@@ -31,7 +31,7 @@ agilentDataUI <- function(id = "AgilentData",
       shiny::tabPanel(
         title = "Results",
         icon = shiny::icon("table-list"),
-        # review2UI(id = ns("results"), insideTagsDiv = insideTagsDiv)
+        review2UI(id = ns("results"), insideTagsDiv = insideTagsDiv)
       )
     )
   )
@@ -53,6 +53,13 @@ agilentDataServer <- function(id = "AgilentData",
                                 admin = admin,
                                 theTargets = reactive({theTargets}),
                                 toProcess = filesTable)
+    
+    toReviewList <- reactive({
+      processing()$resultList
+    })
+    
+    review2 <- review2Server(id = "results",
+                             resultList = toReviewList)
     
   })
 }
