@@ -2,15 +2,22 @@
 % Please edit documentation in R/fct_showTable.R
 \name{showTable}
 \alias{showTable}
-\title{Title}
+\title{showTable}
 \usage{
 showTable(theTable, useTitle = NA)
 }
 \arguments{
-\item{theTable}{}
+\item{theTable}{the table to be transformed into the html table. Note: must
+have the columns 'Control', 'Location', 'Modification', 
+'Reference m/z (Da)', 'm/z (Da)', 'Reference Retention Time (min)' and
+'Retention Time (min)'. The rest is optional}
 
-\item{useTitle}{}
+\item{useTitle}{if not NA (default), then useTitle is used as the title
+(header) of the (gt) html table}
+}
+\value{
+gt table object
 }
 \description{
-Title
+transforms the end result of the application into a (gt) html table
 }

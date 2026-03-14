@@ -2,13 +2,23 @@
 % Please edit documentation in R/fct_showTable.R
 \name{locationSort}
 \alias{locationSort}
-\title{Title}
+\title{locationSort}
 \usage{
 locationSort(locations)
 }
 \arguments{
-\item{locations}{}
+\item{locations}{character vector of integer numbers. If one
+element is '277/279' it gets transformed to 277. This to be able to use the
+vector for sorting purposes (the sorting is NOT done in this function).}
+}
+\value{
+integer vector
 }
 \description{
-Title
+Helper function to 'translate' a character vector of numbers to an integer
+ vector. It handles the special case '277/279' by 'translating' it to 277L
+ and a blank ('') to 0L
+}
+\examples{
+locationSort(locations = c("277/279", "192" ,"55"))
 }

@@ -2,13 +2,23 @@
 % Please edit documentation in R/fct_showTable.R
 \name{ModificationSort}
 \alias{ModificationSort}
-\title{Title}
+\title{ModificationSort}
 \usage{
 ModificationSort(modifications)
 }
 \arguments{
-\item{modifications}{}
+\item{modifications}{character vector with elements '', 'DON', 'DON82' and/or
+'DON100'}
+}
+\value{
+integer vector
 }
 \description{
-Title
+helper function that 'translates' a character vector to a character vector
+ of modifications to integer numbers (as character numbers) for predefined
+ sorting order (no sorting takes place in this function). If an element is a
+ blank ('') it gets 'translated' to 0:
+}
+\examples{
+ModificationSort(c("DON82","","DON100", "DON"))
 }
